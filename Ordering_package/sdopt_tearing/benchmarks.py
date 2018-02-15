@@ -7,7 +7,7 @@ from itertools import count
 import six
 from networkx import DiGraph, Graph, is_connected
 from networkx.algorithms.bipartite import is_bipartite_node_set
-#from plot import plot
+from plot import plot
 from py3compat import irange
 
 # From: Partitioning and Tearing of Networks Applied to Process Flowsheeting;
